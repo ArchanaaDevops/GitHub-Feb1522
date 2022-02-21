@@ -1,0 +1,4 @@
+1. Creating Repo in GitHub with Readme file and upload GIT Material 
+2. clone the repo to local using Https
+3. create a file for 2102 learning,add,commit and push 
+  
