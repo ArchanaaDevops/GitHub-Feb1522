@@ -1,2 +1,5 @@
 1. git pull vs git fetch and git merge
 2. git diff
+3. ps -ef
+4. ps -ef | grep httpd - check Apache Running or not
+5. netstat -nltp  - check for ports listening
