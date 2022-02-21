@@ -2,3 +2,4 @@
 2. clone the repo to local using Https
 3. create a file for 2102 learning,add,commit and push 
  4. Update file in gitHub side and save
+5. Clone repo using SSH 
