@@ -1,4 +1,5 @@
 1. Create Branch in Locally and GitHub side
 2. git checkout branchname
 3. git diff sourcebranch targetbranch
-This changes from release br  github side
+4. This changes from release-1 locally
+
